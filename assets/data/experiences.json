@@ -1,0 +1,244 @@
+[
+    {
+        "start": "Abril/2020",
+        "end": "Setembro/2022",
+        "role": "Front-end",
+        "status": "Júnior",
+        "company": "Outroll",
+        "address": "Melbourne, Victoria - Austrália",
+        "details": [
+            "Auxiliei na criação de projetos light-comets, criando em um CMS módulos e componentes baseados em um webflow, e contribuí também na criação de projetos criados em Frameworks, seguindo o padrão de código de cada projeto, o layout estabelecido e rodando o build no Jenkins após o merge no ambiente em questão.",
+            "Todos os projetos faziam uso de CMS para que o cliente pudesse manipular o conteúdo e alguns projetos faziam uso do Salesforce, essas eram a fonte de dados que tínhamos para fazer as requisições.",
+            "Fazia parte da rotina de trabalho: Dailies que reunia os colaboradores do Brasil, Filipinas e Austrália, checar por novas tarefas no Jira Board ou passadas via Slack Channel, criação de códigos e envio para o devido ambiente após aprovação do QA, além de eventuais reuniões pra discutir abordagens de tarefas.",
+            "Nos últimos meses a empresa investiu no conhecimento da equipe ao disponibilizar livre acesso aos cursos da Udemy."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Jquery",
+            "Nuxt",
+            "Vue",
+
+            "PHP",
+            "Directus",
+
+            "Git"
+        ],
+        "projects": [
+            {
+                "name": "VCCI",
+                "link": "victorianchamber.com.au"
+            },
+            {
+                "name": "LHQ",
+                "link": "labelhq.com.au"
+            },
+            {
+                "name": "MCC",
+                "link": "melbournechamber.org.au"
+            },
+            {
+                "name": "LEG",
+                "link": "mvlegends.com.au"
+            },
+            {
+                "name": "ARC",
+                "link": "arc.frankly.com.au"
+            },
+            {
+                "name": "ArmGuard",
+                "link": "armaguard.com.au"
+            },
+            {
+                "name": "TOTE",
+                "link": "tote.frankly.com.au"
+            },
+            {
+                "name": "GPS",
+                "link": "globalparkingsolutions.frankly.com.au"
+            },
+            {
+                "name": "BIGV",
+                "link": "gameday.bigv.com.au"
+            },
+            {
+                "name": "PeacockBros.",
+                "link": "peacocks.com.au"
+            },
+            {
+                "name": "Signorino",
+                "link": "signorino.com.au"
+            },
+            {
+                "name": "NBL",
+                "link": "nbl.com.au"
+            },
+            {
+                "name": "NBL1",
+                "link": "nbl1.com.au"
+            },
+            {
+                "name": "Premier Supplies",
+                "link": "prod-premiersupplies.lkgdev.net"
+            }
+        ]
+    },
+    {
+        "start": "Setembro/2020",
+        "end": "Janeiro/2021",
+        "role": "Fullstack",
+        "status": "Independente",
+        "company": "Toca Canto Cultural",
+        "address": "Petrópolis, Rio Grande do Sul - Brasil",
+        "details": [
+            "Criação de um sistema online para cadastro de clientes, bem como as turmas que estes estão matriculados, registro de transações, envio de e-mail automatizado, uma área administrativa para o usuário criar núcleos, turmas, verificar transações e manipular matrículas trocando alunos de turma, cancelando, entre outras features.",
+            "Além das reuniões semanais para discutir o projeto contávamos com o Trello para criação de tarefas.",
+            "Ao sair do projeto eu também agi como recrutador, selecionando um entre outros após submetê-los a testes, entrevistas e análise de currículos."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+
+            "PHP",
+            "Laravel",
+
+            "Git"
+        ],
+        "projects": [
+            {
+                "name": "Toca Canto Cultural",
+                "link": "tocacantocultural.com.br"
+            }
+        ]
+    },
+    {
+        "start": "Dezembro/2019",
+        "end": "Maio/2020",
+        "role": "Fullstack",
+        "status": "Estudo",
+        "company": "Projeto autoral",
+        "address": "Azenha, Rio Grande do Sul - Brasil",
+        "details": [
+            "Criação de um sistema online com a intenção de aplicar os conhecimentos obtidos no estágio que fiz pela Nitro Digital, subir a aplicação feita em um Framework para um servidor, explorar a orientação a objetos, MVC, os recursos que o Framework proporcionava e a integração com outras ferramentas como React e SASS ao Laravel.",
+            "Para isso, decidi recriar toda a lógica musical utilizando a lógica de programação, ou seja, do objeto que tinha as 7 notas musicais se criava os diferentes tipos de escalas, a relação intervalar entre as notas e os acordes.",
+            "Além disso a aplicação possuia um sistema de Login e algumas features como um editor de cifra, um jogo de carta (onde o usuário jogava com o sistema, ganhava quem formava um acorde com as cartas que possuia), entre outras."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "SASS",
+            "Javascript",
+            "React",
+
+            "PHP",
+            "Laravel",
+
+            "Git"
+        ],
+        "projects": [
+            {
+                "name": "Estudar Violão",
+                "link": "estudarviolao.com"
+            }
+        ]
+    },
+    {
+        "start": "Novembro/2018",
+        "end": "Novembro/2020",
+        "role": "Front-end",
+        "status": "Estágio",
+        "company": "Nitro Digital",
+        "address": "Petrópolis, Rio Grande do Sul - Brasil",
+        "details": [
+            "Entrei na empresa como suporte técnico e após 6 meses passei a trabalhar como Front-end, sendo o único na empresa a evoluir de tal forma até então.",
+            "Tive a oportunidade de trabalhar pela primeira vez com codificação de sites responsivos, MVC, orientação a objetos e codificação de emails.",
+            "Fazia parte da rotina de trabalho: Dailies que reunia  a equipe de desenvolvimento e reuniões semanais junto com a equipe de suporte, criação de códigos e envio para o devido ambiente após aprovação do QA. As tarefas eram passadas via Gitlab.",
+            "No último semestre a empresa investiu no meu conhecimento ao disponibilizar livre acesso aos cursos da Alura, onde pude desenvolver mais as minhas habilidades."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "SASS",
+
+            "Javascript",
+            "JQuery",
+            "React",
+            "Gatsby",
+
+            "PHP",
+            "Laravel",
+            "Composer",
+            "SQL",
+
+            "Git"
+        ],
+        "projects": [
+            {
+                "name": "Nitro Digital",
+                "link": "nitrodigital.com.br"
+            },
+            {
+                "name": "Nitronews",
+                "link": "nitronews.com.br"
+            },
+            {
+                "name": "Blog Nitronews",
+                "link": "blog.nitronews.com.br"
+            },
+            {
+                "name": "Central de Ajuda Nitronews",
+                "link": "ajuda.nitronews.com.br"
+            },
+            {
+                "name": "Outros",
+                "link": "Outros (sites de clientes)"
+            }
+        ]
+    },
+    {
+        "start": "Novembro/2018",
+        "end": "Novembro/2019",
+        "role": "Fullstack",
+        "status": "Independente",
+        "company": "Harmonia Studio",
+        "address": "Bom Fim, Rio Grande do Sul - Brasil",
+        "details": [
+            "Criação de um site de apresentação dos serviços oferecidos pelo espaço. O site contava com um sistema on-line para agendar horários.",
+            "Fazia parte da rotina de trabalho reuniões semanais onde verificava direto com o cliente sobre novas atualizações."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "PHP"
+        ],
+        "projects": [
+            {
+                "name": "Studio Harmonia",
+                "link": "harmoniastudio.com.br"
+            }
+        ]
+    },
+    {
+        "start": "Setembro/2018",
+        "end": "Janeiro/2019",
+        "role": "Front-end",
+        "status": "Bolsista",
+        "company": "Faculdade Senac",
+        "address": "Centro Histórico, Rio Grande do Sul - Brasil",
+        "details": [
+            "Projeto de Iniciação Científica da Faculdade Senac que consistia na criação de uma plataforma on-line. Criação de uma plataforma \"360 graus da rede SindiLojas: da qualificação do atendimento à avaliação da satisfação\".",
+            "Neste projeto tive meu primeiro contato com React e Git. Fazia parte da rotina reuniões semanais e criações colaborativas."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "React",
+            
+            "Git"
+        ]
+    }
+]

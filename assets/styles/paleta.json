@@ -1,0 +1,16 @@
+{
+    "color": {
+        "black": { "color": "#011F26" },
+        "green": { "color": "#025959" },
+        "blue": { "color": "#038C7F" },
+        "brown": { "color": "#BF712C" },
+        "grey": { "color": "#D9D0C7" }
+    },
+    "BG": {
+        "black": { "background": "#011F26" },
+        "green": { "background": "#025959" },
+        "blue": { "background": "#038C7F" },
+        "brown": { "background": "#BF712C" },
+        "grey": { "background": "#D9D0C7" }
+    }
+}

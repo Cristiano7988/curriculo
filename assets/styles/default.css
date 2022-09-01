@@ -1,0 +1,62 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Raleway';
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: auto;
+}
+
+li {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Custom */
+
+.padding-horizontal {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.padding-vertical {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.column {
+    width: 100%;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.details .column p, .company  {
+    text-align: justify;
+}
+
+.details .column p {
+    margin-top: unset;
+    margin-right: 5px;
+}
+
+.medium.column {
+    max-width: 300px;
+}
+
+.small.column {
+    max-width: 100px;
+}
