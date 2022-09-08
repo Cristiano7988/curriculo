@@ -4,7 +4,8 @@
         <div class="flex-container">
             <div class="experiences">
               <div class="flex-container padding-vertical padding-horizontal">
-                <h2 style>Experiências</h2>
+                <!-- <h2 style>Experiências</h2> -->
+                <h2 style>Experiences</h2>
               </div>
               <div class="experience" v-for="( {start, end, role, company, details, projects, stack, address, status}, index) in experiences" :key="index">
                     <div class="company padding-horizontal">
@@ -23,10 +24,10 @@
                     </div>
                     <div v-if="!index" class="titles flex-container padding-horizontal">
                         <Title
-                            v-for="({title, column}, key) in titles"
+                            v-for="({englishTitle, column}, key) in titles"
                             :key="key"
                             :style="color.green"
-                            :title="title"
+                            :title="englishTitle"
                             :class="[column]"
                         />
                     </div>
@@ -56,25 +57,30 @@
 </template>
 
 <script>
-import experiences from "@/assets/data/experiences.json";
+// import experiences from "@/assets/data/experiences.json";
+import experiencesEnglish from "@/assets/data/experiences-english.json";
 import { color, BG } from "@/assets/styles/paleta.json";
 
 export default {
     data() {
         return {
-            experiences,
+            // experiences,
+            experiences: experiencesEnglish,
             color,
             BG,
             titles: [
                 {
-                    title: "Detalhes"
+                    title: "Detalhes",
+                    englishTitle: "Details"
                 },
                 {
                     title: "Projetos",
+                    englishTitle: "Projects",
                     column: "medium"
                 },
                 {
                     title: "Stack",
+                    englishTitle: "Stack",
                     column: "small"
                 }
             ],

@@ -7,7 +7,8 @@
             <h1>Cristiano Oliveira Morales</h1>
             <div>
                 <div class="contact">
-                    <HeaderItem icon="home">Rua 20 de Setembro, 69, apartamento 105 - Azenha, RS - Brasil</HeaderItem>
+                    <!-- <HeaderItem icon="home">Rua 20 de Setembro, 69, apartamento 105 - Azenha, RS - Brasil</HeaderItem> -->
+                    <HeaderItem icon="home">20 de Setembro Street, 69, apartment 105 - Azenha, RS - Brazil</HeaderItem>
                     <HeaderItem icon="phone">(51) 98546-3537</HeaderItem>
                     <HeaderItem icon="email">cristianooliveiramorales@gmail.com</HeaderItem>
                 </div>
