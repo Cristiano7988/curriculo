@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fcurriculo\u002F_nuxt\u002Fstatic\u002F1665756533",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fcurriculo\u002F",assetsPath:"\u002Fcurriculo\u002F_nuxt\u002F",cdnURL:a}}}}(null));
