@@ -1,6 +1,6 @@
 <template>
     <p>
-        <img class="icon" :src="`/img/${icon}-icon.png`">
+        <img class="icon" :src="`/curriculo/img/${icon}-icon.png`">
         <span>
             <slot />
         </span>

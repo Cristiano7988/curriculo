@@ -1,7 +1,7 @@
 <template>
     <header :style="[BG.blue, color.grey]" class="padding">
         <div class="perfil">
-            <img src="/img/perfil.jpg" />
+            <img src="/curriculo/img/perfil.jpg" />
         </div>
         <div class="basic-info">
             <h1>Cristiano Oliveira Morales</h1>
@@ -26,6 +26,7 @@ import { color, BG } from "@/assets/styles/paleta.json";
 
 export default {
     data() {
+        console.log(process.env)
         return { color, BG };
     }
 }
