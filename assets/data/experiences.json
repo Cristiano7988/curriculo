@@ -1,5 +1,46 @@
 [
     {
+        "start": "Dezembro/2022",
+        "end": "...",
+        "status": "Júnior",
+        "company": "UniFG",
+        "address": "Partenon, Rio Grande do Sul - Brasil",
+        "details": [
+            "Atualmente eu trabalho em ajustes e atualização nos projetos da empresa que foram feitos no Wordpress.",
+            "Eu estou desenvlvendo o app Medflix usando ReactJS. Para este projeto eu estou usando Git pro versionamento e NodeJS para consumir a api."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "jQuery",
+            "React",
+            "Node",
+            "PHP",
+            "Git",
+            "Wordpress",
+            "WPBakery"
+        ],
+        "projects": [
+            {
+                "name": "FGMED",
+                "link": "fgmed.org"
+            },
+            {
+                "name": "POSFG",
+                "link": "posfg.com.br"
+            },
+            {
+                "name": "Medflix",
+                "link": "[projeto em andamento]"
+            },
+            {
+                "name": "Faculdade Global",
+                "link": "faculdadeglobal.edu.br"
+            }
+        ]
+    },
+    {
         "start": "Abril/2020",
         "end": "Setembro/2022",
         "role": "Front-end",

@@ -1,5 +1,46 @@
 [
     {
+        "start": "December/2022",
+        "end": "...",
+        "status": "Junior",
+        "company": "UniFG",
+        "address": "Partenon, Rio Grande do Sul - Brazil",
+        "details": [
+            "I currently work on fixes and updates for both websites, FGMED and POSFG,that were made on Wordpress.",
+            "I'm developing the app Medflix with ReactJS. For that project I'm using Git for versioning and NodeJS to consume an api."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "JQuery",
+            "React",
+            "Node",
+            "PHP",
+            "Git",
+            "Wordpress",
+            "WPBakery"
+        ],
+        "projects": [
+            {
+                "name": "FGMED",
+                "link": "fgmed.org"
+            },
+            {
+                "name": "POSFG",
+                "link": "posfg.com.br"
+            },
+            {
+                "name": "Medflix",
+                "link": "[ongoing project]"
+            },
+            {
+                "name": "Faculdade Global",
+                "link": "faculdadeglobal.edu.br"
+            }
+        ]
+    },
+    {
         "start": "April/2021",
         "end": "September/2022",
         "status": "Junior",
@@ -7,11 +48,11 @@
         "address": "Melbourne, Victoria - Australia",
         "details": [
             "I Worked on light-comets projects, creating modules and components in a CMS based on webflow, I also worked in projects that used Frameworks, following the code pattern, the given layout, using the Jenkins to execute the compilation and merging in the environment.",
-
+    
             "All projects used CMS so that the client could use it to populate the website/system, some of them also used Salesforce. Those were the data sources we had to make requests.",
-
+    
             "In our routine we had daily meetings with the team from Brazil, Philippines and Australia, we also had to check for new tasks on the Jira Board or those that were assigned by the Slack channel.",
-
+    
             "In recent months the company has invested in our knowledge by giving free access to Udemy courses."
         ],
         "stack": [
