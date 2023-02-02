@@ -1,0 +1,280 @@
+[
+    {
+        "start": "December/2022",
+        "end": "...",
+        "status": "Junior",
+        "company": "UniFG",
+        "address": "Partenon, Rio Grande do Sul - Brazil",
+        "details": [
+            "I currently work on fixes and updates for both websites, FGMED and POSFG,that were made on Wordpress.",
+            "I'm developing the app Medflix with ReactJS. For that project I'm using Git for versioning and NodeJS to consume an api."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "JQuery",
+            "React",
+            "Node",
+            "PHP",
+            "Git",
+            "Wordpress",
+            "WPBakery"
+        ],
+        "projects": [
+            {
+                "name": "FGMED",
+                "link": "fgmed.org"
+            },
+            {
+                "name": "POSFG",
+                "link": "posfg.com.br"
+            },
+            {
+                "name": "Medflix",
+                "link": "[ongoing project]"
+            },
+            {
+                "name": "Faculdade Global",
+                "link": "faculdadeglobal.edu.br"
+            }
+        ]
+    },
+    {
+        "start": "April/2021",
+        "end": "September/2022",
+        "status": "Junior",
+        "company": "Outroll",
+        "address": "Melbourne, Victoria - Australia",
+        "details": [
+            "I Worked on light-comets projects, creating modules and components in a CMS based on webflow, I also worked in projects that used Frameworks, following the code pattern, the given layout, using the Jenkins to execute the compilation and merging in the environment.",
+    
+            "All projects used CMS so that the client could use it to populate the website/system, some of them also used Salesforce. Those were the data sources we had to make requests.",
+    
+            "In our routine we had daily meetings with the team from Brazil, Philippines and Australia, we also had to check for new tasks on the Jira Board or those that were assigned by the Slack channel.",
+    
+            "In recent months the company has invested in our knowledge by giving free access to Udemy courses."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Jquery",
+            "Nuxt",
+            "Vue",
+            "PHP",
+            "Directus",
+            "Git"
+        ],
+        "projects": [
+            {
+                "name": "VCCI",
+                "link": "victorianchamber.com.au"
+            },
+            {
+                "name": "LHQ",
+                "link": "labelhq.com.au"
+            },
+            {
+                "name": "MCC",
+                "link": "melbournechamber.org.au"
+            },
+            {
+                "name": "LEG",
+                "link": "mvlegends.com.au"
+            },
+            {
+                "name": "ARC",
+                "link": "arc.frankly.com.au"
+            },
+            {
+                "name": "ArmGuard",
+                "link": "armaguard.com.au"
+            },
+            {
+                "name": "TOTE",
+                "link": "tote.frankly.com.au"
+            },
+            {
+                "name": "GPS",
+                "link": "globalparkingsolutions.frankly.com.au"
+            },
+            {
+                "name": "BIGV",
+                "link": "gameday.bigv.com.au"
+            },
+            {
+                "name": "PeacockBros.",
+                "link": "peacocks.com.au"
+            },
+            {
+                "name": "Signorino",
+                "link": "signorino.com.au"
+            },
+            {
+                "name": "NBL",
+                "link": "nbl.com.au"
+            },
+            {
+                "name": "NBL1",
+                "link": "nbl1.com.au"
+            },
+            {
+                "name": "Premier Supplies",
+                "link": "prod-premiersupplies.lkgdev.net"
+            }
+        ]
+    },
+    {
+        "start": "September/2020",
+        "end": "January/2021",
+        "role": "Fullstack",
+        "status": "Independent",
+        "company": "Toca Canto Cultural",
+        "address": "Petrópolis, Rio Grande do Sul - Brazil",
+        "details": [
+            "Creation of an online system for a music school. In it, the client could store their customer base as well as each school enrollment, their transactions, automatic sending of e-mails, an administration area for the client to manipulate the data, among other features.",
+
+            "When I left the project I also worked as a recruiter, administering tests and interviews and doing curriculum analysis."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "PHP",
+            "Laravel",
+            "Git"
+        ],
+        "projects": [
+            {
+                "name": "Toca Canto Cultural",
+                "link": "tocacantocultural.com.br"
+            }
+        ]
+    },
+    {
+        "start": "December/2019",
+        "end": "May/2020",
+        "role": "Fullstack",
+        "status": "Study",
+        "company": "Autoral Project",
+        "address": "Azenha, Rio Grande do Sul - Brazil",
+        "detail": [
+            "Creation of an online system to apply my knowledge acquired in the internship at Nitro Digital, deploy an application made with Frameworks, explorying object-oriented programming, MVC, Framework resources and integration with SASS and React.js.",
+
+            "For that I decide to recreate all the music's logic with programming logic, in other words, with one object (musical notes) I could create different scales, chords and interval relationships.",
+
+            "Besides that, the application has a login system and some features such as a chord editor, a card game (where the user could play with the system, the winner was the first one to make a chord with the cards that he has), among others."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "SASS",
+            "Javascript",
+            "React",
+            "PHP",
+            "Laravel",
+            "Git"
+        ],
+        "projects": [
+            {
+                "name": "Estudar Violão",
+                "link": "estudarviolao.com"
+            }
+        ]
+    },
+    {
+        "start": "November/2018",
+        "end": "November/2020",
+        "role": "Front-end",
+        "status": "Internship",
+        "company": "Nitro Digital",
+        "address": "Petrópolis, Rio Grande do Sul - Brazil",
+        "details": [
+            "I joined the company as a technical support and after 6 months I was promoted to work with the development team, being the first one to evolve like this in the company.",
+
+            "I had the opportunity to work for the first time with email encoding, developing responsive websites, MVC and object-oriented programming.",
+
+            "In recent months the company invested in my knowledge giving free access to Alura."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "SASS",
+            "Javascript",
+            "JQuery",
+            "React",
+            "Gatsby",
+            "PHP",
+            "Laravel",
+            "Composer",
+            "SQL",
+            "Git"
+        ],
+        "projects": [
+            {
+                "name": "Nitro Digital",
+                "link": "nitrodigital.com.br"
+            },
+            {
+                "name": "Nitronews",
+                "link": "nitronews.com.br"
+            },
+            {
+                "name": "Blog Nitronews",
+                "link": "blog.nitronews.com.br"
+            },
+            {
+                "name": "Central de Ajuda Nitronews",
+                "link": "ajuda.nitronews.com.br"
+            },
+            {
+                "name": "Others",
+                "link": "Others (clients' websites)"
+            }
+        ]
+    },
+    {
+        "start": "November/2018",
+        "end": "November/2019",
+        "role": "Fullstack",
+        "status": "Independent",
+        "company": "Harmonia Studio",
+        "address": "Bom Fim, Rio Grande do Sul - Brazil",
+        "details": [
+            "Creation of a website to show the services offered from the Pilates studio. The website has an online system that the user could make appointments."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "PHP"
+        ],
+        "projects": [
+            {
+                "name": "Studio Harmonia",
+                "link": "harmoniastudio.com.br"
+            }
+        ]
+    },
+    {
+        "start": "September/2018",
+        "end": "January/2019",
+        "role": "Front-end",
+        "status": "Scholarship",
+        "company": "Senac College",
+        "address": "Centro Histórico, Rio Grande do Sul - Brazil",
+        "details": [
+            "This project was offered by the college as a scientific research project wich consisted in create an online system called \"360 graus da rede SindiLojas: da qualificação do atendimento à avaliação da satisfação\".",
+
+            "In this project I had my first contact with React.js and Git flow."
+        ],
+        "stack": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "React",
+            "Git"
+        ]
+    }
+]
